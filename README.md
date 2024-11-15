@@ -28,4 +28,7 @@ This Streamlit app leverages the power of AI to automate the process of generati
 3. Generate: Click the "Get Detailed Notes" button to generate notes.
 4. Download: Click the "Download Notes" button to download the generated notes in a text file.
 
+## Images
+
+![image](https://github.com/user-attachments/assets/101b91d7-4db9-4a61-84cc-9c3fce79890f)
 
